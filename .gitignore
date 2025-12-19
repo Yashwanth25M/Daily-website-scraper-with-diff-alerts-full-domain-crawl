@@ -13,3 +13,4 @@ snapshots.db
 
 # Streamlit config/cache
 .streamlit/
+.idea/
